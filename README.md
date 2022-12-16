@@ -1,10 +1,10 @@
 Hey there, my name is Monica Ornati.
 
-- 💻 I’m currently a data analyst at Uber
+- 💻 I’m currently a data analyst at Uber in Amsterdam 🇳🇱
 - 👩‍💻 I previously worked as a data analyst at Kering  🇫🇷 , Adidas 🇩🇪 and as a consultant
 - 📫 How to reach me: monica.ornati@gmail.com
 
-### 📊 Data Skills 📊
+### 📊 Data Skills 📊
 
 **Hard Skills:**
 Data Analysis : Python, Jupyter, VS Code,
